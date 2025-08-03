@@ -1,29 +1,32 @@
-<h1 align="center">سلام، من دانیالم 👋</h1>
+<h1 align="center">👋 Hi , I'm Danial Momenpour </h1>
 
 <p align="center">
-  Frontend Developer based in Tehran — focused on building clean, modern, and responsive web interfaces using React and Next.js.
+  <strong>Frontend Developer based in Tehran</strong><br />
+  Specialized in building modern, clean, and responsive web applications using <strong>React</strong>, <strong>Next.js</strong> & <strong>TypeScript</strong>.
 </p>
 
 ---
 
-### 📦 My Dev DNA
+### 🧬 My Dev DNA
 
 ```ts
 const DanialMomenpour = {
-    pronouns: "He" | "Him",
-    aboutME: "I'm Frontend Developer with React.js",
-    language: ["javaScript", "typeScript"],
-    myStack: {
-        frontEnd: {
-            frameworks: ["React", "Next", "Refine"],
-            stateManagements: ["Redux", "Zustand"],
-            dataManagementTools: ["ReactQuery", "GraphQL", "Axios"],
-            versionControl: ["git"],
-            API: ["Restful"]
-        },
-        backEnd: {
-            status: "Frontend Developer with basic experience in building APIs using Next.js (API Routes) 😊"
-        }
+  pronouns: "He" | "Him",
+  aboutME: "Frontend Developer focused on building user-friendly interfaces with React.js",
+  language: ["JavaScript", "TypeScript"],
+  myStack: {
+    frontEnd: {
+      frameworks: ["React", "Next.js", "Refine"],
+      stateManagements: ["Redux", "Zustand"],
+      dataManagementTools: ["React Query", "GraphQL", "Axios"],
+      styling: ["TailwindCSS", "CSS Modules"],
+      versionControl: ["Git"],
+      apiHandling: ["RESTful APIs"],
     },
-    currentFocus: "Web Development with Next.js",
-}
+    backEnd: {
+      status:
+        "Frontend-focused developer with basic experience in building APIs using Next.js (API Routes) 😊",
+    },
+  },
+  currentFocus: "Improving performance and scalability in frontend architecture.",
+};
