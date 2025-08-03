@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi , I'm Danial Momenpour </h1>
+<h1 align="start">👋 Hi , I'm Danial Momenpour </h1>
 
-<p align="center">
+<p align="start">
   <strong>Frontend Developer based in Tehran</strong><br />
   Specialized in building modern, clean, and responsive web applications using <strong>React</strong>, <strong>Next.js</strong> & <strong>TypeScript</strong>.
 </p>
