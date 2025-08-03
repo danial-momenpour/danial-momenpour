@@ -17,11 +17,11 @@ const DanialMomenpour = {
   language: ["JavaScript", "TypeScript"],
   myStack: {
     frontEnd: {
-      frameworks: ["React", "Next.js", "Refine"],
+      frameworks: ["React.js", "Next.js", "Refine.js"],
       stateManagements: ["Redux", "Zustand"],
-      dataManagementTools: ["React Query", "GraphQL", "Axios"],
+      dataManagementTools: ["ReactQuery", "GraphQL", "Axios"],
       styling: ["TailwindCSS", "CSS Modules"],
-      versionControl: ["Git"],
+      versionControl: ["git"],
       apiHandling: ["RESTful APIs"],
     },
     backEnd: {
