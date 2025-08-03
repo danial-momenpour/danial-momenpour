@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">سلام، من دانیالم 👋</h1>
 
-<!--
-**danial-momenpour/danial-momenpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Frontend Developer based in Tehran — focused on building clean, modern, and responsive web interfaces using React and Next.js.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 My Dev DNA
+
+```ts
+const DanialMomenpour = {
+    pronouns: "He" | "Him",
+    aboutME: "I'm Frontend Developer with React.js",
+    language: ["javaScript", "typeScript"],
+    myStack: {
+        frontEnd: {
+            frameworks: ["React", "Next", "Refine"],
+            stateManagements: ["Redux", "Zustand"],
+            dataManagementTools: ["ReactQuery", "GraphQL", "Axios"],
+            versionControl: ["git"],
+            API: ["Restful"]
+        },
+        backEnd: {
+            status: "Frontend Developer with basic experience in building APIs using Next.js (API Routes) 😊"
+        }
+    },
+    currentFocus: "Web Development with Next.js",
+}
