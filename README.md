@@ -1,14 +1,14 @@
 
-<h1 align="center">سلام، من دانیال مومن‌پورم 👋</h1>
+<h1 align="start">👋 Hi , I'm Danial Momenpour</h1>
 
-<p align="center">
+<p align="start">
   <strong>Frontend Developer based in Tehran</strong><br />
   Specialized in building modern, clean, and responsive web applications using <strong>React</strong>, <strong>Next.js</strong> & <strong>TypeScript</strong>.
 </p>
 
 ---
 
-### 🧬 My Dev DNA
+### 🧬 a little more about me ...
 
 ```ts
 const DanialMomenpour = {
@@ -64,4 +64,4 @@ const DanialMomenpour = {
 ### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/danial-momenpour)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](danialmomenpour@gmail.com)
